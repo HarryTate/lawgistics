@@ -15,13 +15,6 @@ https://www.advancedcustomfields.com/
 ## Installation and Activation
 
 ### Step 1: Compress the Plugin Folder
-- Ensure you have the following folder structure on your local machine:
-lawgistics/
-├── assets/
-│ └── css/
-│ └── style.css
-├── lawgistics.php
-└── shortcode-pies.php
 - Compress the `lawgistics` folder into a ZIP file named `lawgistics.zip`.
 
 ### Step 2: Upload and Install the Plugin

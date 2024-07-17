@@ -1,0 +1,53 @@
+.lawgistics.pies-list {
+    margin: 20px 0;
+}
+
+.lawgistics .pies-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.lawgistics .pies-table th, .lawgistics .pies-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.lawgistics .pies-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.lawgistics .pie-item:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.lawgistics .pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.lawgistics .pagination li {
+    margin: 0 5px;
+}
+
+.lawgistics .pagination a, .lawgistics .pagination span {
+    display: block;
+    padding: 8px 12px;
+    color: #0073aa;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.lawgistics .pagination a:hover {
+    background-color: #0073aa;
+    color: #fff;
+    border-color: #0073aa;
+}
+
+.lawgistics .pagination .current {
+    background-color: #0073aa;
+    color: #fff;
+    border-color: #0073aa;
+}
